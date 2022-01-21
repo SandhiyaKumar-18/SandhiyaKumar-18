@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### I am Sandhiya Kumar  :relaxed:
 ### 🌱 Spending my most of my time on learning Machine learning,Deep Learning &Data Science.Because I love doing these tasks
-### :running_woman: Ok it is a time to go for work on another Project....
 ### :cricket_game: my favorite hobbies are Watching Cricket(Test Cricket lover) and writing blogs about cricket 	:cricket_game:
 ### ✨Harry Potter fan & MCU fan...:star2:
+### :running_woman: Ok it is a time to go for work on another Project....
 <!--
 **SandhiyaKumar-18/SandhiyaKumar-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
