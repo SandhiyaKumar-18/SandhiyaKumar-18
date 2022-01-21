@@ -2,6 +2,7 @@
 ### I am Sandhiya Kumar  :relaxed:
 ### Third year Computer Science Engineering Student
 ### 🌱 Spending my most of my time on learning Machine learning,Deep Learning &Data Science.Because I love doing these tasks
+###🌱 I’m currently learning NlP and Computer Vision
 ### :cricket_game: my favorite hobbies are Watching Cricket(Test Cricket lover) and writing blogs about cricket 	:cricket_game:
 ### ✨Harry Potter fan & MCU fan...:star2:
 ### :running_woman: Ok it is a time to go for work on another Project....
