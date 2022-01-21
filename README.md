@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### I am Sandhiya Kumar  :relaxed:
-
+### 🌱 Spending my most of the time in Machine learning,Deep Learning,&Data Science
+### Because I love doing these tasks
+### :running_woman: Ok time to go for work on anothe Project....
 <!--
 **SandhiyaKumar-18/SandhiyaKumar-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
