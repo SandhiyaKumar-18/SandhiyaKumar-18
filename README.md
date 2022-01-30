@@ -6,6 +6,9 @@
 ### :cricket_game: my favorite hobbies are Watching Cricket(Test Cricket lover) and writing blogs about cricket 	:cricket_game:
 ### 
 ### :running_woman: Ok it is a time to go for work on another Project....
+ [![Sandhiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/SandhiyaKumar-18/github-readme-stats)
+![Sandhiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandhiyaKumar-18&show_icons=true&theme=radical)
+[![Sandhiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandhiyaKumar-18)](https://github.com/SandhiyaKumar-18/github-readme-stats)
 <!--
 **SandhiyaKumar-18/SandhiyaKumar-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  [![Sandhiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/SandhiyaKumar-18/github-readme-stats)
