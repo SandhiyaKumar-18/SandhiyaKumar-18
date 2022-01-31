@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Sandhiya Kumar  :relaxed:
 ### Third year Computer Science Engineering Student
-### 🌱 Spending my most of my time on learning Machine learning,Deep Learning &Data Science.Because I love doing these tasks
+### 🌱 Self Taught learner, Spending my most of my time on learning Machine learning,Deep Learning &Data Science.Because I love doing these tasks
 ### I'm currently learning NLP and Image Processing
 ### :cricket_game: my favorite hobbies are Watching Cricket(Test Cricket lover) and writing blogs about cricket 	:cricket_game:
 ### 
