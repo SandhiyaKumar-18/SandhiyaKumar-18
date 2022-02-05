@@ -1,5 +1,5 @@
 ### Hi there 👋
- *Z I am Sandhiya Kumar * :relaxed:
+ ***I am Sandhiya Kumar*** :relaxed:
 ### Third year Computer Science Engineering Student
 ### 🌱 Self Taught learner, Spending my most of my time on learning Machine learning,Deep Learning &Data Science.Because I love doing these tasks
 ### I'm currently learning NLP and Image Processing
