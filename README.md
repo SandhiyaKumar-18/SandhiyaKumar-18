@@ -13,7 +13,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 
+- Kind of Person who always explore new things and curious about everything
 - 💼 I’m currently pursuing my Bachelor's degree in Computer Science at [APEC](https://adhiparasakthi.in/);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, etc..;
 - 🎬 I love watching movies and I'm a big fan of Harry potter <img src="https://www.pngfind.com/download/omxhRh_harrypotter-sticker-harry-potter-logo-gryffindor-hd-png/" width=15 height=15>
