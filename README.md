@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    A <b>Software Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Vandavasi, India.
+    A <b>Computer Science Engineering Student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Vandavasi, India.
   </em>
  </p>
 
@@ -17,7 +17,8 @@
 - 💼 I’m currently pursuing my Bachelor's degree in Computer Science at [APEC](https://adhiparasakthi.in/);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
-- 💬 love to write,so writing blogs on [Medium](https://medium.com/@ksandhiya484) 
+- 💬 love to write,so writing blogs on [Medium](https://medium.com/@ksandhiya484)
+- This month Goal to complete blogs on Statistics and Machine learning Algorithm in mathematical way
 - 📫 Please email via Ksandhiya484@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/sandhiya-kumar-534590189//) to reach me;
 <br/> 
 </em>
