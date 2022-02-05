@@ -16,7 +16,7 @@
 - Kind of Person who always explore new things and curious about everything
 - 💼 I’m currently pursuing my Bachelor's degree in Computer Science at [APEC](https://adhiparasakthi.in/);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, etc..;
--  Mentor at Kanaa(https://teamkanaa.com/)(Volunteer) which is cloosed to my ❤️
+-  Mentor at [Team Kanaa](https://teamkanaa.com/)(Volunteer) which is cloosed to my ❤️
 - 🎬 I love watching movies and I'm a big fan of Harry potter <img src="https://user-images.githubusercontent.com/96000268/152629444-5b4b6439-ac17-4da0-8ae4-b04bc32677fa.png" width=20 height=20>
 - 💬 love to write,so writing blogs on [Medium](https://medium.com/@ksandhiya484) about datascience
 - This month Goal to complete blogs on Statistics and Machine learning Algorithm in mathematical way
