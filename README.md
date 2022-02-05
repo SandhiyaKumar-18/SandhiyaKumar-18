@@ -2,11 +2,11 @@
 
 <p>
   <em>
-    A <b>Computer Science Engineering Student</b> <img src="![IMG_20220205_100907](https://user-images.githubusercontent.com/96000268/152629190-febd637b-2703-4d8d-8ac3-c2473d7f12b6.jpg)" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Vandavasi, India.
+    A <b>Computer Science Engineering Student</b> <img src="https://user-images.githubusercontent.com/96000268/152629190-febd637b-2703-4d8d-8ac3-c2473d7f12b6.jpg" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Vandavasi, India.
   </em>
  </p>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://user-images.githubusercontent.com/96000268/152629190-febd637b-2703-4d8d-8ac3-c2473d7f12b6.jpg" />
 
 <em> Want to know more about me? [Click here](https://www.linkedin.com/in/sandhiya-kumar-534590189//) </em>
 <em>
