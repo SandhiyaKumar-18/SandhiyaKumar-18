@@ -16,7 +16,7 @@
 - 
 - 💼 I’m currently pursuing my Bachelor's degree in Computer Science at [APEC](https://adhiparasakthi.in/);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, etc..;
-- 🎬 I love watching movies and I'm a big fan of Harry potter <img src="https://www.pngfind.com/mpng/hTJmmx_harry-potter-gryffindor-crest-hd-png-download.png" width=15 height=15>
+- 🎬 I love watching movies and I'm a big fan of Harry potter <img src="https://www.pngfind.com/download/omxhRh_harrypotter-sticker-harry-potter-logo-gryffindor-hd-png/" width=15 height=15>
 - 💬 love to write,so writing blogs on [Medium](https://medium.com/@ksandhiya484)
 - This month Goal to complete blogs on Statistics and Machine learning Algorithm in mathematical way
 - 📫 Please email via Ksandhiya484@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/sandhiya-kumar-534590189//) to reach me;
