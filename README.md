@@ -17,7 +17,7 @@
 - 💼 I’m currently pursuing my Bachelor's degree in Computer Science at [APEC](https://adhiparasakthi.in/);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
-- 💬 Ask me about anything, I am happy to help;
+- 💬 love to write,so writing blogs on [Medium](https://medium.com/@ksandhiya484) 
 - 📫 Please email via Ksandhiya484@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/sandhiya-kumar-534590189//) to reach me;
 <br/> 
 </em>
