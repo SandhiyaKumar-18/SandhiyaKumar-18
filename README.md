@@ -31,30 +31,15 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="php"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" title="C"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="java"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="django"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow"></code>
-
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="docker"></code>
-
-
-
-
-
-
-
-
-
 [![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Sandhiya_18)](https://twitter.com/Sandhiya_18) 
 [![Linkedin Badge](https://img.shields.io/badge/-Sandhiya_18-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandhiya-kumar-534590189//)](https://www.linkedin.com/in/sandhiya-kumar-534590189//) 
 [![Medium Badge](https://img.shields.io/badge/-@Sandhiya-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ksandhiya484)](https://medium.com/@ksandhiya484)
