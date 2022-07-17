@@ -40,7 +40,12 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
-[![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Sandhiya_18)](https://twitter.com/Sandhiya_18) 
+
+
+
+
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-Sandhiya_18-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandhiya-kumar-534590189//)](https://www.linkedin.com/in/sandhiya-kumar-534590189//) 
 [![Medium Badge](https://img.shields.io/badge/-@Sandhiya-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ksandhiya484)](https://medium.com/@ksandhiya484)
 [![Gmail Badge](https://img.shields.io/badge/-ksandhiya484@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksandhiya484@gmail.com)](mailto:ksandhiya484@gmail.com)
