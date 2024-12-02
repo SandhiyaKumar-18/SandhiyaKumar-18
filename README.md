@@ -2,7 +2,7 @@
 
 <p>
   <em>
-     <b>Cyber Security Practioner/</b> <img src="https://user-images.githubusercontent.com/96000268/152629190-febd637b-2703-4d8d-8ac3-c2473d7f12b6.jpg" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Tamilnadu, India.
+     <b>Cyber Security Practioner</b> <img src="https://user-images.githubusercontent.com/96000268/152629190-febd637b-2703-4d8d-8ac3-c2473d7f12b6.jpg" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Tamilnadu, India.
   </em>
  </p>
 
