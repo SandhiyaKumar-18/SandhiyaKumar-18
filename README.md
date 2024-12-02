@@ -16,7 +16,7 @@
 - Kind of Person who always explore new things and curious about everything
 - 💼 I’m currently Working as System Administrator at Cognizant Technological solution
 - 🤔
-- # I'm a big lover of novels and I'm a big fan of Harry potter <img src="https://user-images.githubusercontent.com/96000268/152629444-5b4b6439-ac17-4da0-8ae4-b04bc32677fa.png" width=20 height=20>
+- I'm a big lover of novels and I'm a big fan of Harry potter <img src="https://user-images.githubusercontent.com/96000268/152629444-5b4b6439-ac17-4da0-8ae4-b04bc32677fa.png" width=20 height=20>
 - 💬 love to write,so writing blogs on [Medium](https://medium.com/@ksandhiya484) about datascience
 - This month Goal to complete blogs on Statistics and Machine learning Algorithm in mathematical way
 - 📫 Please email via Ksandhiya484@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/sandhiya-kumar-534590189//) to reach me;
