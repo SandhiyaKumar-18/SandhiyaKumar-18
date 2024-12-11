@@ -20,11 +20,11 @@
 
 
 
-
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,js,java,python,c,mysql,linux,php,powershell,ubuntu,windows)](https://skillicons.dev)
 
-
+</br>
 [![Linkedin Badge](https://img.shields.io/badge/-Sandhiya_18-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandhiya-kumar-534590189//)](https://www.linkedin.com/in/sandhiya-kumar-534590189//) 
 [![Medium Badge](https://img.shields.io/badge/-@Sandhiya-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ksandhiya484)](https://medium.com/@ksandhiya484)
 [![Gmail Badge](https://img.shields.io/badge/-ksandhiya484@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksandhiya484@gmail.com)](mailto:ksandhiya484@gmail.com)
