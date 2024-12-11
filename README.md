@@ -20,9 +20,9 @@
 
 
 
-<p style="line-height:1.5;"> 
+
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,js,java,python,c,mysql,linux,php,powershell,ubuntu,windows)](https://skillicons.dev)
-</p>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sandhiya_18-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandhiya-kumar-534590189//)](https://www.linkedin.com/in/sandhiya-kumar-534590189//) 
 [![Medium Badge](https://img.shields.io/badge/-@Sandhiya-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ksandhiya484)](https://medium.com/@ksandhiya484)
