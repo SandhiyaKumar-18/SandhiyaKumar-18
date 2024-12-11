@@ -5,7 +5,9 @@
      <b>Cyber Security Practioner</b> <img src="https://raw.githubusercontent.com/SandhiyaKumar-18/SandhiyaKumar-18/refs/heads/main/giphy1.webp" width=20 height=20 > and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Tamilnadu, India.
   </em>
   <br>
+  <em>
    Want to know more about me?[click here](https://www.linkedin.com/in/sandhiya-kumar18/)
+  </em>
  </p>
 
 <div style="margin-bottom: 20px;"> <img align="right" alt="Coder GIF" height=280 width=350 src="https://raw.githubusercontent.com/SandhiyaKumar-18/SandhiyaKumar-18/refs/heads/main/giphy1.webp" /> </div>
