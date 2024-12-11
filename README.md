@@ -13,7 +13,7 @@
   
 **Talking about Personal Stuffs:**
 
-- Kind of Person who always explore new things and curious about everything
+- My love for learning is endless.
 - 💼 I’m currently Working as System Administrator at Cognizant Technological solution
 <br/> 
 </em>
