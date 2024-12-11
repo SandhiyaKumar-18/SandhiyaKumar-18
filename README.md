@@ -13,7 +13,7 @@
 
   
 **Talking about Personal Stuffs:**
-
+<em>
 - My love for learning is endless.
 - 💼 I’m currently Working as System Administrator at Cognizant Technological solution
 - Specailzed in Cloud security, Applicattion Security and Web Security.
