@@ -6,7 +6,7 @@
   </em>
  </p>
 
-<img align="right" alt="Coder GIF" height=300 width=350 src="https://raw.githubusercontent.com/SandhiyaKumar-18/SandhiyaKumar-18/refs/heads/main/giphy1.webp" />
+<img align="right" alt="Coder GIF" height=280 width=350 src="https://raw.githubusercontent.com/SandhiyaKumar-18/SandhiyaKumar-18/refs/heads/main/giphy1.webp" />
 
 <em> Want to know more about me? [Click here](https://www.linkedin.com/in/sandhiya-kumar18/) </em>
 <em>
