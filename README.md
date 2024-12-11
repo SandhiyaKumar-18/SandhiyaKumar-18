@@ -15,7 +15,6 @@
 
 - Kind of Person who always explore new things and curious about everything
 - 💼 I’m currently Working as System Administrator at Cognizant Technological solution
-- 🤔
 - I'm a big lover of novels and I'm a big fan of Harry potter <img src="https://user-images.githubusercontent.com/96000268/152629444-5b4b6439-ac17-4da0-8ae4-b04bc32677fa.png" width=20 height=20>
 - 💬 love to write,so writing blogs on [Medium](https://medium.com/@ksandhiya484) about datascience
 - This month Goal to complete blogs on Statistics and Machine learning Algorithm in mathematical way
@@ -41,7 +40,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
