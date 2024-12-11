@@ -40,8 +40,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,js,java)](https://skillicons.dev)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sandhiya_18-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandhiya-kumar-534590189//)](https://www.linkedin.com/in/sandhiya-kumar-534590189//) 
