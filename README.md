@@ -41,7 +41,7 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sandhiya_18-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandhiya-kumar-534590189//)](https://www.linkedin.com/in/sandhiya-kumar-534590189//) 
