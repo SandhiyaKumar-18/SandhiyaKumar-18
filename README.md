@@ -16,7 +16,7 @@
 <em>
 - My love for learning is endless.
 - 💼 I’m currently Working as System Engineer at Cognizant Technological solution
-- Specailzed in Cloud security, Applicattion Security and Web Security.
+- Specailzed in IAM , Cloud security, Web App Security.
 - Google Cloud Assosiate Certified Pofessional, to see my credential [click here](https://www.credly.com/badges/b9706339-0a94-41a4-9d59-5fd360e0b6d6/linked_in_profile)
 - Want to know more about me?[click here](https://www.linkedin.com/in/sandhiya-kumar18/)
 
