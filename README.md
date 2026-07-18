@@ -2,7 +2,7 @@
 
 <p>
   <em>
-     <b>Cyber Security Practioner</b> <img src="https://raw.githubusercontent.com/SandhiyaKumar-18/SandhiyaKumar-18/refs/heads/main/giphy1.webp" width=20 height=20 > and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Tamilnadu, India.
+     <b>Cyber Security Practioner</b> <img src="https://raw.githubusercontent.com/SandhiyaKumar-18/SandhiyaKumar-18/refs/heads/main/giphy1.webp" width=20 height=20 > <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Tamilnadu, India.
   </em>
   <br>
 
